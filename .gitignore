@@ -1,0 +1,10 @@
+bin/
+build/
+doc/
+*.pyc
+.DS_Store
+.vscode/
+__pycache__/
+
+# Ignore all compiled Python extension modules
+*.so
